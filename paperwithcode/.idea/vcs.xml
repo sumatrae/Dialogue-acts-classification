@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Bert/bert" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bi-LSTM-CRF/short-text-classification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bi-RNN _Self-Attention_Context/CASA-Dialogue-Act-Classifier" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CNN/short-text-classification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SGNN/SGNN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/datasets/MRDA-Corpus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/datasets/Switchboard-Corpus" vcs="Git" />
+  </component>
+</project>
